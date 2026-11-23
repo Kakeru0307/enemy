@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+demo/
+pretrained_models/**
+!pretrained_models/download_link.txt
+results_default/**
+!results_default/download_link.txt
+*.mid
+*.pt
+*.zip
